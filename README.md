@@ -4,8 +4,8 @@
 
 ## 👨‍🎓 Student Details
 
-**Name:** Divyansh Sonwane
-**Registration Number:** 24BCE10143
+**Name:** Nityansh Dixit
+**Registration Number:** 24BHI10032
 **Course:** Open Source Software
 
 ---
